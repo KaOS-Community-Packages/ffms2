@@ -7,3 +7,5 @@ Homepage: https://github.com/FFMS/ffms2
 ```
 kcp -i ffms2
 ```
+
+required by https://github.com/KaOS-Community-Packages/aegisub
